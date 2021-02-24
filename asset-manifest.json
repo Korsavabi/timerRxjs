@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Korsavabi/timerRxjs/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/Korsavabi/timerRxjs/static/js/main.ec361e45.chunk.js",
+    "main.js.map": "/Korsavabi/timerRxjs/static/js/main.ec361e45.chunk.js.map",
+    "runtime-main.js": "/Korsavabi/timerRxjs/static/js/runtime-main.bdcbcd6b.js",
+    "runtime-main.js.map": "/Korsavabi/timerRxjs/static/js/runtime-main.bdcbcd6b.js.map",
+    "static/js/2.d5d219a7.chunk.js": "/Korsavabi/timerRxjs/static/js/2.d5d219a7.chunk.js",
+    "static/js/2.d5d219a7.chunk.js.map": "/Korsavabi/timerRxjs/static/js/2.d5d219a7.chunk.js.map",
+    "index.html": "/Korsavabi/timerRxjs/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/Korsavabi/timerRxjs/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.d5d219a7.chunk.js.LICENSE.txt": "/Korsavabi/timerRxjs/static/js/2.d5d219a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdcbcd6b.js",
+    "static/js/2.d5d219a7.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.ec361e45.chunk.js"
+  ]
+}
